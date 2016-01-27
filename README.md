@@ -33,3 +33,8 @@ to run this we need to get rid of qt functions .. i.e. commenting out:
 ```
 
 in /usr/local/share/SuperCollider/SCClassLibrary/Common/GUI/Base/QtGUI.sc (linux)
+
+
+##result
+
+```./helloSc``` runs SuperCollider console
