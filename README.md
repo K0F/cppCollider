@@ -1,5 +1,7 @@
 #bare supercollider build
 
+CMake is broken right now.. sorry for this
+
 This program is linked against bare SuperCollider build, the diffenernt cmake options in non-standart SC build were made:
 
 ```
