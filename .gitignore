@@ -1,2 +1,5 @@
 build
 *.o
+*_bak
+cmake_modules
+helloSc
