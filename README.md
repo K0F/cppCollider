@@ -4,9 +4,8 @@ This program is linked against bare SuperCollider build, the diffenernt cmake op
 
 ```
 FFT_GREEN                        ON
-NOVA_SIMD                       OFF
+NOVA_SIMD                        OFF
 NO_AVAHI                         ON
-C_DOC_RENDER                    OFF
 SC_ED                            OFF
 SC_EL                            OFF
 SC_IDE                           OFF
