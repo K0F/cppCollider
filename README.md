@@ -1,6 +1,9 @@
-#bare supercollider build
-
+#TODO
 CMake is broken right now.. sorry for this
+
+##bare supercollider build
+
+
 
 This program is linked against bare SuperCollider build, the diffenernt cmake options in non-standart SC build were made:
 
@@ -15,7 +18,7 @@ SC_QT                            OFF
 SC_VIM                           OFF
 ```
 
-#further mods
+##further SuperCollider mods
 
 to run this we need to get rid of qt functions .. i.e. commenting out:
 
