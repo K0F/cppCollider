@@ -37,4 +37,4 @@ in /usr/local/share/SuperCollider/SCClassLibrary/Common/GUI/Base/QtGUI.sc (linux
 
 ##result
 
-```./helloSc``` runs SuperCollider console
+```./helloSc``` runs SuperCollider console so whitin SC console ```().play``` should do *beep*
